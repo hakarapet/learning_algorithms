@@ -12,6 +12,7 @@ It is quite possible that in your everyday usage you will not use these algorith
 
 ## So what do we have here?
 - [Big O notation](./algorithms/big_o_notation/big_o_notation.md)
+- [Bubble Sort](./algorithms/bubble_sort/bubble_sort.md)
 - [Quick Sort](./algorithms/quick_sort/quick_sort.md)
 - [Binary Search](./algorithms/binary_search/binary_search.md)
 - [Merge Sort](./algorithms/merge_sort/merge_sort.md)
